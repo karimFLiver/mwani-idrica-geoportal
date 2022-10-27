@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "DOUBLE_NON_RETURN_VALVE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Entity": "Insert", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-isolation valve", "Color": 7, "Linetype": "Continuous", "LineWt": 25, "Angle": 285.06684470099998, "ID": "ISV.94", "LEVEL": "3.49942" }, "geometry": { "type": "Point", "coordinates": [ 51.605293547993121, 25.042160527434685, 4.829700000002049 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Entity": "Insert", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-isolation valve", "Color": 7, "Linetype": "Continuous", "LineWt": 25, "Angle": 105.06684470099999, "ID": "ISV.97", "LEVEL": "3.66621" }, "geometry": { "type": "Point", "coordinates": [ 51.589684266207712, 25.021375233342741, 4.829700000002049 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Entity": "Insert", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-isolation valve", "Color": 7, "Linetype": "Continuous", "LineWt": 25, "Angle": 180.0, "ID": "ISV.98", "LEVEL": "3.47515" }, "geometry": { "type": "Point", "coordinates": [ 51.594503486060191, 24.992428840927573, 4.829700000002049 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Entity": "Insert", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-isolation valve", "Color": 7, "Linetype": "Continuous", "LineWt": 25, "Angle": 150.06511781699999, "ID": "ISV.96", "LEVEL": "3.66621" }, "geometry": { "type": "Point", "coordinates": [ 51.586570929113449, 25.031675178555972, 4.829700000002049 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Entity": "Insert", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-isolation valve", "Color": 7, "Linetype": "Continuous", "LineWt": 25, "Angle": 270.00000479, "ID": "ISV.105", "LEVEL": "3.14435" }, "geometry": { "type": "Point", "coordinates": [ 51.597202054818112, 24.996445248978048, 4.829700000002049 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "Entity": "Insert", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-isolation valve", "Color": 7, "Linetype": "Continuous", "LineWt": 25, "Angle": 272.08678566600003, "ID": "ISV.95", "LEVEL": "3.25725" }, "geometry": { "type": "Point", "coordinates": [ 51.611626735424849, 25.0166662360289, 4.829700000002049 ] } }
+]
+}

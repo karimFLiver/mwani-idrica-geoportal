@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "WASHOUT_VALVE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-wv", "Color": 6, "Linetype": "Continuous", "LineWt": 25, "ID": "WV.005", "LEVEL": "3.80875" }, "geometry": { "type": "Point", "coordinates": [ 51.588459652269698, 25.027810773326127, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-wv", "Color": 6, "Linetype": "Continuous", "LineWt": 25, "ID": "WV.009", "LEVEL": "3.51771" }, "geometry": { "type": "Point", "coordinates": [ 51.605944578639068, 25.039005061850784, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-wv", "Color": 6, "Linetype": "Continuous", "LineWt": 25, "ID": "WV.003", "LEVEL": "3.90755" }, "geometry": { "type": "Point", "coordinates": [ 51.606159112498624, 25.036362444886244, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-wv", "Color": 6, "Linetype": "Continuous", "LineWt": 25, "ID": "WV.006", "LEVEL": "3.69809" }, "geometry": { "type": "Point", "coordinates": [ 51.594148138584956, 25.008342521196905, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-wv", "Color": 6, "Linetype": "Continuous", "LineWt": 25, "ID": "WV.007", "LEVEL": "3.8752" }, "geometry": { "type": "Point", "coordinates": [ 51.595630055173167, 25.001016522877279, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-wv", "Color": 6, "Linetype": "Continuous", "LineWt": 25, "ID": "WV.008", "LEVEL": "3.89083" }, "geometry": { "type": "Point", "coordinates": [ 51.59561981527726, 24.997664228665382, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-wv", "Color": 6, "Linetype": "Continuous", "LineWt": 25, "ID": "WV.004", "LEVEL": "3.07022" }, "geometry": { "type": "Point", "coordinates": [ 51.611570743433198, 25.015714160029106, 0.0 ] } }
+]
+}

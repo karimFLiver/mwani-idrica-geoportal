@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "AIR_RELEASE_VALVE",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-arv", "Color": 6, "Linetype": "Continuous", "Elevation": 4.8296714893599999, "LineWt": 25, "ID": "ARV.010", "LEVEL": "3.75307" }, "geometry": { "type": "Point", "coordinates": [ 51.605134110504913, 25.041607150362967, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-arv", "Color": 6, "Linetype": "Continuous", "Elevation": 4.8296714893599999, "LineWt": 25, "ID": "ARV.009", "LEVEL": "3.96441" }, "geometry": { "type": "Point", "coordinates": [ 51.606652204944588, 25.036792831903234, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-arv", "Color": 6, "Linetype": "Continuous", "Elevation": 4.8296714893599999, "LineWt": 25, "ID": "ARV.002", "LEVEL": "4.03987" }, "geometry": { "type": "Point", "coordinates": [ 51.588114394671692, 25.029022329340805, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-arv", "Color": 6, "Linetype": "Continuous", "Elevation": 4.8296714893599999, "LineWt": 25, "ID": "ARV.004", "LEVEL": "3.78121" }, "geometry": { "type": "Point", "coordinates": [ 51.589088953567227, 25.025657372998911, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-arv", "Color": 6, "Linetype": "Continuous", "Elevation": 4.8296714893599999, "LineWt": 25, "ID": "ARV.008", "LEVEL": "4.13366" }, "geometry": { "type": "Point", "coordinates": [ 51.610269079196613, 25.019753671407077, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 6, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-arv", "Color": 6, "Linetype": "Continuous", "Elevation": 4.8296714893599999, "LineWt": 25, "ID": "ARV.013", "LEVEL": "4.42406" }, "geometry": { "type": "Point", "coordinates": [ 51.611059527476357, 24.999114931330435, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 7, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-arv", "Color": 6, "Linetype": "Continuous", "Elevation": 4.8296714893599999, "LineWt": 25, "ID": "ARV.007", "LEVEL": "3.70498" }, "geometry": { "type": "Point", "coordinates": [ 51.609312405758381, 24.995024795898196, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 8, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-arv", "Color": 6, "Linetype": "Continuous", "Elevation": 4.8296714893599999, "LineWt": 25, "ID": "ARV.006", "LEVEL": "4.05234" }, "geometry": { "type": "Point", "coordinates": [ 51.603381732744218, 24.997965840017564, 0.0 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 9, "Entity": "Circle", "Layer": "X05US-UTIL-POTABLE WATER(OVERALL)$0$us_util-arv", "Color": 6, "Linetype": "Continuous", "Elevation": 4.8296714893599999, "LineWt": 25, "ID": "ARV.005", "LEVEL": "3.99695" }, "geometry": { "type": "Point", "coordinates": [ 51.595625914838045, 24.999665178246239, 0.0 ] } }
+]
+}
